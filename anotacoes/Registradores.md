@@ -152,7 +152,7 @@ Também é imilar aos outros 3 registradores.
 
 ##### CONCLUSÂO #####
 
-Em conclusão, todos os quatro registradores gerais listados acima, em termos comportamentaris, fazem a mesma coisa -armazenam dados temporariamente-, tendo o seu diferencial na convenção de uso pelos programadores.
+Em conclusão, todos os quatro registradores gerais listados acima, em termos comportamentaris, fazem a mesma coisa -armazenam dados temporariamente-, tendo o seu diferencial na convenção de uso pelos programadores. Porém, os SO usam essas convenções como base de interpretação, portanto, se não forem respeitadas, podem haver conflitos no codigo.
 
 
 
